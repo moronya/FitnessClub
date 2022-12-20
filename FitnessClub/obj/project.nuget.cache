@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czgve2UMalQJqcDBPdAUS6SOYC6GEKxXhWsDFlgniPJtFjcH1jtIo7Yh4f81hguslCgAA0CNij++g+ionE8cpw==",
+  "dgSpecHash": "kGDyeOxsfNelG0fPeF3SFQewFXccG2OLLN8pLUb6mq6eP0FQdiGxRyNv98JRMEGAeyT1cre32IHC9lvu3TFPEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amos\\source\\repos\\FitnessClub\\FitnessClub\\FitnessClub.csproj",
+  "projectFilePath": "C:\\Users\\Amos\\Documents\\Kazi\\C#\\FitnessClub\\FitnessClub\\FitnessClub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amos\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Amos\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
